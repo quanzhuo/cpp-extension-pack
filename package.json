@@ -1,0 +1,35 @@
+{
+  "name": "kylin-cpp-extension-pack",
+  "displayName": "C/C++ Extension Pack",
+  "publisher": "KylinIdeTeam",
+  "description": "C/C++ Extension Pack",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "icon": "icon.png",
+  "author": {
+    "name": "KylinIdeTeam"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "C",
+    "C++",
+    "KylinIdeTeam",
+    "clangd",
+    "cmake"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quanzhuo/cpp-extension-pack.git"
+  },
+
+  "extensionPack": [ 
+    "KylinIdeTeam.kylin-clangd",
+    "KylinIdeTeam.kylin-cmake-tools",
+    "KylinIdeTeam.cppdebug",
+    "KylinIdeTeam.cmake-intellisence"
+  ]
+}
