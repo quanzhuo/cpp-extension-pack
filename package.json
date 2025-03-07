@@ -7,7 +7,6 @@
   "engines": {
     "vscode": "^1.65.0"
   },
-  "icon": "icon.png",
   "author": {
     "name": "KylinIdeTeam"
   },
