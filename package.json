@@ -19,7 +19,10 @@
     "C++",
     "KylinIdeTeam",
     "clangd",
-    "cmake"
+    "cmake",
+    "KylinIdeDev",
+    "KylinIdeDevCYuYan",
+    "KylinIdeDevCPlusPlus"
   ],
   "repository": {
     "type": "git",
