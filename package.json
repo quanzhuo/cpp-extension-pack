@@ -3,7 +3,7 @@
   "displayName": "Extension Pack for C/C++",
   "publisher": "KylinIdeTeam",
   "description": "C/C++ Extension Pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.65.0"
   },
@@ -33,6 +33,7 @@
     "KylinIdeTeam.kylin-clangd",
     "KylinIdeTeam.kylin-cmake-tools",
     "KylinIdeTeam.cppdebug",
+    "KylinIdeTeam.kylin-debug",
     "KylinIdeTeam.cmake-intellisence"
   ]
 }
