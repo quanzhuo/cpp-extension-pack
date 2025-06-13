@@ -4,6 +4,4 @@ This extension pack provides comprehensive support for **CMake-based** C/C++ pro
 
 + [Kylin Clangd](https://marketplace.visualstudio.com/items?itemName=KylinIdeTeam.kylin-clangd)
 + [C/C++ Debug](https://marketplace.visualstudio.com/items?itemName=KylinIdeTeam.cppdebug)
-+ [Kylin Native Debug](https://marketplace.visualstudio.com/items?itemName=KylinIdeTeam.kylin-debug)
 + [CMake Tools (Fork)](https://marketplace.visualstudio.com/items?itemName=KylinIdeTeam.kylin-cmake-tools)
-+ [CMake IntelliSence](https://marketplace.visualstudio.com/items?itemName=KylinIdeTeam.cmake-intellisence)
