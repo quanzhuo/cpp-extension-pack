@@ -1,6 +1,6 @@
 # C/C++ Extension Pack for CMake-Based Projects
 
-This extension pack provides comprehensive support for **CMake-based** C/C++ projects, offering intelligent code assistance, build/debug tools, and CMake script enhancements.
+This extension pack delivers complete support for **CMake-based** C/C++ projects,  including intelligent code assistance, build and debugging tools, and enhanced CMake scripting features.
 
 + [Kylin Clangd](https://marketplace.visualstudio.com/items?itemName=KylinIdeTeam.kylin-clangd)
 + [C/C++ Debug](https://marketplace.visualstudio.com/items?itemName=KylinIdeTeam.cppdebug)
