@@ -28,6 +28,10 @@
     "type": "git",
     "url": "https://github.com/quanzhuo/cpp-extension-pack.git"
   },
+  "bugs": {
+    "url": "https://github.com/quanzhuo/cpp-extension-pack/issues",
+    "email": "quanzhuo@kylinos.cn"
+  },
   "extensionPack": [ 
     "KylinIdeTeam.kylin-clangd",
     "KylinIdeTeam.kylin-cmake-tools",
