@@ -3,7 +3,7 @@
   "displayName": "Extension Pack for C/C++",
   "publisher": "KylinIdeTeam",
   "description": "C/C++ Extension Pack",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.65.0"
   },
