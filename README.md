@@ -4,9 +4,9 @@ This extension pack provides support for **CMake-based** C/C++ projects, includi
 
 ## Included Extensions
 
-+ [Kylin Clangd](https://marketplace.visualstudio.com/items?itemName=KylinIdeTeam.kylin-clangd)
-+ [C/C++ Debug](https://marketplace.visualstudio.com/items?itemName=KylinIdeTeam.cppdebug)
-+ [Kylin CMake Workflow](https://marketplace.visualstudio.com/items?itemName=KylinIdeTeam.kylin-cmake-tools)
++ [Kylin Clangd](https://github.com/quanzhuo/vscode-clangd)
++ [C/C++ Debug](https://github.com/quanzhuo/cpp-debug)
++ [Kylin CMake Workflow](https://github.com/quanzhuo/vscode-cmake-tools)
 
 ## Getting Started
 
@@ -28,4 +28,4 @@ We welcome contributions and suggestions! If you'd like to improve this extensio
 - [GitHub Repository](https://github.com/quanzhuo/cpp-extension-pack)
 - [Report Issues](https://github.com/quanzhuo/cpp-extension-pack/issues)
 
-Thank you for choosing this C/C++ Extension Pack for your CMake-based projects—we hope it makes your development experience smoother and more efficient!
+Thank you for choosing this C/C++ Extension Pack. We hope it makes your development experience smoother and more efficient!
